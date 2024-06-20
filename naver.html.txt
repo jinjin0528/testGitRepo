@@ -5,5 +5,8 @@
 </head>
 <body>
 <div id="u_skip"> <a href="#topAsideButton"><span>상단영역 바로가기</span></a> <a href="#shortcutArea"><span>서비스 메뉴 바로가기</span></a> <a href="#newsstand"><span>새소식 블록 바로가기</span></a> <a href="#shopping"><span>쇼핑 블록 바로가기</span></a> <a href="#feed"><span>관심사 블록 바로가기</span></a> <a href="#account"><span>MY 영역 바로가기</span></a> <a href="#widgetboard"><span>위젯 보드 바로가기</span></a> <a href="#viewSetting"><span>보기 설정 바로가기</span></a> </div>
+<script> window['EAGER-DATA'] = window['EAGER-DATA'] || {};
+        window['EAGER-DATA']['GV'] = {
+            svt: '20240620162226',  }; </script>
 </body>
 </html>
